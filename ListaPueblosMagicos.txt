@@ -1,0 +1,112 @@
+Ciudad, Estado
+Aculco, Edo de México
+Arteaga, Coahuila
+Atlixco, Puebla
+Bacalar, Quintana Roo
+Batopilas, Chihuahua
+Bernal, Querétaro
+Cadereyta de Montes, Querétaro
+Calvillo, Aguascalientes
+Candela, Coahuila
+Capulálpam de Méndez, Oaxaca
+Casas Grandes, Chihuahua
+Chiapa de Corzo, Chiapas
+Chignahuapan, Puebla
+Coatepec, Veracruz
+Comala, Colima
+Comitán, Chiapas
+Cosalá, Sinaloa
+Coscomatepec, Veracruz
+Creel, Chihuahua
+Cuatro Ciénegas, Coahuila
+Cuetzalan del Progreso, Puebla
+Cuitzeo, Michoacán
+Dolores Hidalgo, Guanajuato
+El Fuerte, Sinaloa
+El Oro, México
+El Rosario, Sinaloa
+Guerrero, en Coahuila
+Huamantla, Tlaxcala
+Huasca de Ocampo, Hidalgo
+Huauchinango,Puebla
+Huautla de Jiménez, Oaxaca
+Huichapan, Hidalgo
+Isla Mujeres, Quintana Roo
+Ixtapan de la Sal, Edo de México
+Izamal, Yucatán
+Jala, Nayarit
+Jalpa, Guanajuato
+Jalpan de Serra, Querétaro
+Jeréz de García Salinas, Zacatecas
+Jiquilpan, Michoacán
+Lagos de Moreno, Jalisco
+Linares, nuevo León
+Loreto, Baja California Sur
+Magdalena de Kino, Sonora
+Malinalco, México
+Mapimi, Durango
+Mascota, Jalisco
+Mazamitla, Jalisco
+Mazunte, Oaxaca
+Metepec, México
+Mier, Tamaulipas
+Mineral de Angangueo, Michoacán
+Mineral de Pozos, Guanajuato
+Mineral del Chico, Hidalgo
+Mocorito, Sinaloa
+Nochistlán, Zacatecas
+Orizaba, Veracruz
+Pahuatlán, Puebla
+Palenque, Chiapas
+Palizada, Campeche
+Papantla, Veracruz
+Parras de la Fuente, Coahuila
+Pino, Zacatecas
+Pátzcuaro, Michoacán
+Real de Asientos, Aguascalientes
+Real de Catorce, San Luis Potosi
+Real de Monte, Hidalgo
+Salvatierra, Guanajuato
+San Cristobal de las Casas, Chiapas
+San Joaquín, Querétaro
+San José de Gracia, Aguascalientes
+San Juan Teotihuacán y San Martín de las Pirámides, Edo de México
+San Pablo Villa Mitla, Oaxaca
+San Pedro Cholula, Puebla
+San Pedro y San Pablo Teposcolula, Oaxaca
+San Sebastián del Oeste, Jalisco
+Santa Clara del Cobre, Michoacán
+Santiago, Nuevo León
+Sayulita, Nayarit
+Sombrerete, Zacatecas
+Tacámbaro, Michoacán
+Talpa de Allende, Jalisco
+Tapalpa, Jalisco
+Tapijulapa, Tabasco
+Taxco, Guerrero
+Tecate, Baja California
+Tecozautla, Hidalgo
+Tepotzotlán, México
+Tepoztlán, Morelos
+Tequila, Jalisco
+Tequisquiapan, Querétaro
+Teúl de González Ortega, Zacatecas
+Tlalpujahua, Michoacán
+Tlatlauquitepec, Puebla
+Tlaxco, Tlaxcala
+Tlayacapan, Morelos
+Todos Santos, Baja California Sur
+Tula, Tamaulipas
+Tulum, Quintana Roo
+Tzintzuntzan, Michoacán
+Valladolid, Yucatán
+Valle de Bravo, México
+Viesca, Coahuila
+Villa del carbón , Edo de México
+Xico, Veracruz
+Xicotepec,Puebla
+Xilitla, San Luis Potosí
+Yuriria, Guanajuato
+Zacatlán, Puebla
+Zozocolco, Veracruz
+Álamos, Sonora
