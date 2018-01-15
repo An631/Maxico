@@ -1,0 +1,222 @@
+Aguascalientes[0]
+	Ciudad=San José de Gracia
+Aguascalientes[1]
+	Ciudad=Calvillo
+Aguascalientes[2]
+	Ciudad=Real de Asientos
+Baja\ California[0]
+	Ciudad=Tecate
+Baja\ California\ Sur[0]
+	Ciudad=Loreto
+Baja\ California\ Sur[1]
+	Ciudad=Todos Santos
+Campeche[0]
+	Ciudad=Palizada
+Chiapas[0]
+	Ciudad=Palenque
+Chiapas[1]
+	Ciudad=Chiapa de Corzo
+Chiapas[2]
+	Ciudad=San Cristobal de las Casas
+Chiapas[3]
+	Ciudad=Comitán
+Chihuahua[0]
+	Ciudad=Batopilas
+Chihuahua[1]
+	Ciudad=Creel
+Chihuahua[2]
+	Ciudad=Casas Grandes
+Coahuila[0]
+	Ciudad=Cuatro Ciénegas
+Coahuila[1]
+	Ciudad=Arteaga
+Coahuila[2]
+	Ciudad=Candela
+Coahuila[3]
+	Ciudad=Parras de la Fuente
+Coahuila[4]
+	Ciudad=Viesca
+Coahuila[5]
+	Ciudad=Guerrero
+Colima[0]
+	Ciudad=Comala
+Durango[0]
+	Ciudad=Mapimi
+Edo\ de\ México[0]
+  Ciudad=Villa del carbón 
+Edo\ de\ México[1]
+	Ciudad=Ixtapan de la Sal
+Edo\ de\ México[2]
+	Ciudad=Aculco
+Edo\ de\ México[3]
+	Ciudad=San Juan Teotihuacán y San Martín de las Pirámides
+Guanajuato[0]
+	Ciudad=Dolores Hidalgo
+Guanajuato[1]
+	Ciudad=Salvatierra
+Guanajuato[2]
+	Ciudad=Jalpa
+Guanajuato[3]
+	Ciudad=Yuriria
+Guanajuato[4]
+	Ciudad=Mineral de Pozos
+Guerrero[0]
+	Ciudad=Taxco
+Hidalgo[0]
+	Ciudad=Tecozautla
+Hidalgo[1]
+	Ciudad=Mineral del Chico
+Hidalgo[2]
+	Ciudad=Real de Monte
+Hidalgo[3]
+	Ciudad=Huichapan
+Hidalgo[4]
+	Ciudad=Huasca de Ocampo
+Jalisco[0]
+	Ciudad=San Sebastián del Oeste
+Jalisco[1]
+	Ciudad=Mascota
+Jalisco[2]
+	Ciudad=Tequila
+Jalisco[3]
+	Ciudad=Mazamitla
+Jalisco[4]
+	Ciudad=Tapalpa
+Jalisco[5]
+	Ciudad=Lagos de Moreno
+Jalisco[6]
+	Ciudad=Talpa de Allende
+México[0]
+	Ciudad=Valle de Bravo
+México[1]
+	Ciudad=El Oro
+México[2]
+	Ciudad=Metepec
+México[3]
+	Ciudad=Tepotzotlán
+México[4]
+	Ciudad=Malinalco
+Michoacán[0]
+	Ciudad=Tacámbaro
+Michoacán[1]
+	Ciudad=Tzintzuntzan
+Michoacán[2]
+	Ciudad=Tlalpujahua
+Michoacán[3]
+	Ciudad=Pátzcuaro
+Michoacán[4]
+	Ciudad=Jiquilpan
+Michoacán[5]
+	Ciudad=Cuitzeo
+Michoacán[6]
+	Ciudad=Santa Clara del Cobre
+Michoacán[7]
+	Ciudad=Mineral de Angangueo
+Morelos[0]
+	Ciudad=Tlayacapan
+Morelos[1]
+	Ciudad=Tepoztlán
+Nayarit[0]
+	Ciudad=Sayulita
+Nayarit[1]
+	Ciudad=Jala
+Nuevo León[0]
+	Ciudad=Linares
+Nuevo León[1]
+	Ciudad=Santiago
+Oaxaca[0]
+	Ciudad=Huautla de Jiménez
+Oaxaca[1]
+	Ciudad=San Pedro y San Pablo Teposcolula
+Oaxaca[2]
+	Ciudad=San Pablo Villa Mitla
+Oaxaca[3]
+	Ciudad=Capulálpam de Méndez
+Oaxaca[4]
+	Ciudad=Mazunte
+Puebla[0]
+	Ciudad=San Pedro Cholula
+Puebla[1]
+	Ciudad=Pahuatlán
+Puebla[2]
+	Ciudad=Huauchinango
+Puebla[3]
+	Ciudad=Atlixco
+Puebla[4]
+	Ciudad=Chignahuapan
+Puebla[5]
+	Ciudad=Xicotepec
+Puebla[6]
+	Ciudad=Tlatlauquitepec
+Puebla[7]
+	Ciudad=Cuetzalan del Progreso
+Puebla[8]
+	Ciudad=Zacatlán
+Querétaro[0]
+	Ciudad=Cadereyta de Montes
+Querétaro[1]
+	Ciudad=Jalpan de Serra
+Querétaro[2]
+	Ciudad=San Joaquín
+Querétaro[3]
+	Ciudad=Tequisquiapan
+Querétaro[4]
+	Ciudad=Bernal
+Quintana Roo[0]
+	Ciudad=Tulum
+Quintana\ Roo[1]
+	Ciudad=Isla Mujeres
+Quintana\ Roo[2]
+	Ciudad=Bacalar
+San\ Luis\ Potosí[0]
+	Ciudad=Real de Catorce
+San\ Luis\ Potosí[1]
+	Ciudad=Xilitla
+Sinaloa[0]
+	Ciudad=El Rosario
+Sinaloa[1]
+	Ciudad=Mocorito
+Sinaloa[2]
+	Ciudad=El Fuerte
+Sinaloa[3]
+	Ciudad=Cosalá
+Sonora[0]
+	Ciudad=Magdalena de Kino
+Sonora[1]
+	Ciudad=Álamos
+Tabasco[0]
+	Ciudad=Tapijulapa
+Tamaulipas[0]
+	Ciudad=Mier
+Tamaulipas[1]
+	Ciudad=Tula
+Tlaxcala[0]
+	Ciudad=Tlaxco
+Tlaxcala[1]
+	Ciudad=Huamantla
+Veracruz[0]
+	Ciudad=Coscomatepec
+Veracruz[1]
+	Ciudad=Xico
+Veracruz[2]
+	Ciudad=Coatepec
+Veracruz[3]
+	Ciudad=Zozocolco
+Veracruz[4]
+	Ciudad=Papantla
+Veracruz[5]
+	Ciudad=Orizaba
+Yucatán[0]
+	Ciudad=Izamal
+Yucatán[1]
+	Ciudad=Valladolid
+Zacatecas[0]
+	Ciudad=Nochistlán
+Zacatecas[1]
+	Ciudad=Pino
+Zacatecas[2]
+	Ciudad=Sombrerete
+Zacatecas[3]
+	Ciudad=Jeréz de García Salinas
+Zacatecas[4]
+	Ciudad=Teúl de González Ortega

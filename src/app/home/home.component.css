@@ -1,0 +1,39 @@
+#background{
+   background: #fae0a0;
+   padding:10px;
+}
+
+.estado-container{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5px;
+    margin-bottom:5px;
+    padding:3px;
+    border-bottom: 2px solid #fad67a;
+    display:flex;
+    font-family:"Verdana";
+    font-weight: bold;
+    color:black;
+}
+
+.ciudad-container{
+    float:left;
+    width:30%;
+    margin:1em;
+    padding:1em;
+    background:#99CC33;
+    cursor:pointer;
+    font-family:"Verdana";
+    font-weight:100;
+    color:white;
+}
+
+.checkbox{
+    float:right;
+    width:2em;
+    height:2em;
+    background:white;
+    color:green;
+    text-align: center;
+}

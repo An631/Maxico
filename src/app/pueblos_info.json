@@ -1,0 +1,400 @@
+{
+  "Aguascalientes": [
+    {
+      "Ciudad": "San José de Gracia"
+    },
+    {
+      "Ciudad": "Calvillo"
+    },
+    {
+      "Ciudad": "Real de Asientos"
+    }
+  ],
+  "Baja\\California": [
+    {
+      "Ciudad": "Tecate"
+    }
+  ],
+  "Baja\\California\\ Sur": [
+    {
+      "Ciudad": "Loreto"
+    },
+    {
+      "Ciudad": "Todos Santos"
+    }
+  ],
+  "Campeche": [
+    {
+      "Ciudad": "Palizada"
+    }
+  ],
+  "Chiapas": [
+    {
+      "Ciudad": "Palenque"
+    },
+    {
+      "Ciudad": "Chiapa de Corzo"
+    },
+    {
+      "Ciudad": "San Cristobal de las Casas"
+    },
+    {
+      "Ciudad": "Comitán"
+    }
+  ],
+  "Chihuahua": [
+    {
+      "Ciudad": "Batopilas"
+    },
+    {
+      "Ciudad": "Creel"
+    },
+    {
+      "Ciudad": "Casas Grandes"
+    }
+  ],
+  "Coahuila": [
+    {
+      "Ciudad": "Cuatro Ciénegas"
+    },
+    {
+      "Ciudad": "Arteaga"
+    },
+    {
+      "Ciudad": "Candela"
+    },
+    {
+      "Ciudad": "Parras de la Fuente"
+    },
+    {
+      "Ciudad": "Viesca"
+    },
+    {
+      "Ciudad": "Guerrero"
+    }
+  ],
+  "Colima": [
+    {
+      "Ciudad": "Comala"
+    }
+  ],
+  "Durango": [
+    {
+      "Ciudad": "Mapimi"
+    }
+  ],
+  "Edo\\de\\ México": [
+    {
+      "Ciudad": "Villa del carbón"
+    },
+    {
+      "Ciudad": "Ixtapan de la Sal"
+    },
+    {
+      "Ciudad": "Aculco"
+    },
+    {
+      "Ciudad": "San Juan Teotihuacán y San Martín de las Pirámides"
+    }
+  ],
+  "Guanajuato": [
+    {
+      "Ciudad": "Dolores Hidalgo"
+    },
+    {
+      "Ciudad": "Salvatierra"
+    },
+    {
+      "Ciudad": "Jalpa"
+    },
+    {
+      "Ciudad": "Yuriria"
+    },
+    {
+      "Ciudad": "Mineral de Pozos"
+    }
+  ],
+  "Guerrero": [
+    {
+      "Ciudad": "Taxco"
+    }
+  ],
+  "Hidalgo": [
+    {
+      "Ciudad": "Tecozautla"
+    },
+    {
+      "Ciudad": "Mineral del Chico"
+    },
+    {
+      "Ciudad": "Real de Monte"
+    },
+    {
+      "Ciudad": "Huichapan"
+    },
+    {
+      "Ciudad": "Huasca de Ocampo"
+    }
+  ],
+  "Jalisco": [
+    {
+      "Ciudad": "San Sebastián del Oeste"
+    },
+    {
+      "Ciudad": "Mascota"
+    },
+    {
+      "Ciudad": "Tequila"
+    },
+    {
+      "Ciudad": "Mazamitla"
+    },
+    {
+      "Ciudad": "Tapalpa"
+    },
+    {
+      "Ciudad": "Lagos de Moreno"
+    },
+    {
+      "Ciudad": "Talpa de Allende"
+    }
+  ],
+  "México": [
+    {
+      "Ciudad": "Valle de Bravo"
+    },
+    {
+      "Ciudad": "El Oro"
+    },
+    {
+      "Ciudad": "Metepec"
+    },
+    {
+      "Ciudad": "Tepotzotlán"
+    },
+    {
+      "Ciudad": "Malinalco"
+    }
+  ],
+  "Michoacán": [
+    {
+      "Ciudad": "Tacámbaro"
+    },
+    {
+      "Ciudad": "Tzintzuntzan"
+    },
+    {
+      "Ciudad": "Tlalpujahua"
+    },
+    {
+      "Ciudad": "Pátzcuaro"
+    },
+    {
+      "Ciudad": "Jiquilpan"
+    },
+    {
+      "Ciudad": "Cuitzeo"
+    },
+    {
+      "Ciudad": "Santa Clara del Cobre"
+    },
+    {
+      "Ciudad": "Mineral de Angangueo"
+    }
+  ],
+  "Morelos": [
+    {
+      "Ciudad": "Tlayacapan"
+    },
+    {
+      "Ciudad": "Tepoztlán"
+    }
+  ],
+  "Nayarit": [
+    {
+      "Ciudad": "Sayulita"
+    },
+    {
+      "Ciudad": "Jala"
+    }
+  ],
+  "Nuevo": [
+    {
+      "Ciudad": "Linares"
+    },
+    []
+  ],
+  "Oaxaca": [
+    {
+      "Ciudad": "Huautla de Jiménez"
+    },
+    {
+      "Ciudad": "San Pedro y San Pablo Teposcolula"
+    },
+    {
+      "Ciudad": "San Pablo Villa Mitla"
+    },
+    {
+      "Ciudad": "Capulálpam de Méndez"
+    },
+    {
+      "Ciudad": "Mazunte"
+    }
+  ],
+  "Puebla": [
+    {
+      "Ciudad": "San Pedro Cholula"
+    },
+    {
+      "Ciudad": "Pahuatlán"
+    },
+    {
+      "Ciudad": "Huauchinango"
+    },
+    {
+      "Ciudad": "Atlixco"
+    },
+    {
+      "Ciudad": "Chignahuapan"
+    },
+    {
+      "Ciudad": "Xicotepec"
+    },
+    {
+      "Ciudad": "Tlatlauquitepec"
+    },
+    {
+      "Ciudad": "Cuetzalan del Progreso"
+    },
+    {
+      "Ciudad": "Zacatlán"
+    }
+  ],
+  "Querétaro": [
+    {
+      "Ciudad": "Cadereyta de Montes"
+    },
+    {
+      "Ciudad": "Jalpan de Serra"
+    },
+    {
+      "Ciudad": "San Joaquín"
+    },
+    {
+      "Ciudad": "Tequisquiapan"
+    },
+    {
+      "Ciudad": "Bernal"
+    }
+  ],
+  "Quintana": [
+    {
+      "Ciudad": "Tulum"
+    }
+  ],
+  "Quintana\\Roo": [
+    {},
+    {
+      "Ciudad": "Isla Mujeres"
+    },
+    {
+      "Ciudad": "Bacalar"
+    }
+  ],
+  "San\\Luis\\ Potosí": [
+    {
+      "Ciudad": "Real de Catorce"
+    },
+    {
+      "Ciudad": "Xilitla"
+    }
+  ],
+  "Sinaloa": [
+    {
+      "Ciudad": "El Rosario"
+    },
+    {
+      "Ciudad": "Mocorito"
+    },
+    {
+      "Ciudad": "El Fuerte"
+    },
+    {
+      "Ciudad": "Cosalá"
+    }
+  ],
+  "Sonora": [
+    {
+      "Ciudad": "Magdalena de Kino"
+    },
+    {
+      "Ciudad": "Álamos"
+    }
+  ],
+  "Tabasco": [
+    {
+      "Ciudad": "Tapijulapa"
+    }
+  ],
+  "Tamaulipas": [
+    {
+      "Ciudad": "Mier"
+    },
+    {
+      "Ciudad": "Tula"
+    }
+  ],
+  "Tlaxcala": [
+    {
+      "Ciudad": "Tlaxco"
+    },
+    {
+      "Ciudad": "Huamantla"
+    }
+  ],
+  "Veracruz": [
+    {
+      "Ciudad": "Coscomatepec"
+    },
+    {
+      "Ciudad": "Xico"
+    },
+    {
+      "Ciudad": "Coatepec"
+    },
+    {
+      "Ciudad": "Zozocolco"
+    },
+    {
+      "Ciudad": "Papantla"
+    },
+    {
+      "Ciudad": "Orizaba"
+    }
+  ],
+  "Yucatán": [
+    {
+      "Ciudad": "Izamal"
+    },
+    {
+      "Ciudad": "Valladolid"
+    }
+  ],
+  "Zacatecas": [
+    {
+      "Ciudad": "Nochistlán"
+    },
+    {
+      "Ciudad": "Pino"
+    },
+    {
+      "Ciudad": "Sombrerete"
+    },
+    {
+      "Ciudad": "Jeréz de García Salinas"
+    },
+    {
+      "Ciudad": "Teúl de González Ortega"
+    }
+  ]
+}

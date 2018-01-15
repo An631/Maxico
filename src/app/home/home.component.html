@@ -1,0 +1,12 @@
+<div id="background">
+
+  <div class = "estado-container" *ngFor="let pueblo of pueblos; let i=index">
+    {{pueblo["Estado"]}}
+    <div class = "ciudad-container" *ngFor="let ciudad of pueblo['Ciudades']">
+      {{ciudad["Nombre"]}}
+      <div class="checkbox" (click)=addVisited(ciudad)></div>
+    </div>
+    
+  </div>
+  
+</div>
