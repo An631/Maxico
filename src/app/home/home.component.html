@@ -3,7 +3,7 @@
       {{pueblo["Estado"]}}
     </div>
     <div class="clearfix">
-      <div class = "ciudad-container"  [ngStyle]="{'background-image':'url('+ciudad['Fotos'][0]+')'}" *ngFor="let ciudad of pueblo['Ciudades']">
+      <div class = "ciudad-container" routerLink="details/{{ciudad['id']}}" [ngStyle]="{'background-image':'url('+ciudad['Fotos'][0]+')'}" *ngFor="let ciudad of pueblo['Ciudades']">
         <div class="ciudad-title clearfix">
           <span>{{ciudad["Nombre"]}}</span>
           <div class="checkbox" (click)=addVisited(ciudad)></div>
