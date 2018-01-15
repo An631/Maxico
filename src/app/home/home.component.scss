@@ -1,0 +1,75 @@
+
+
+body.index{background-image:none !important}
+
+.estado-container{
+    width: 100%;
+    height:40%;
+    min-width:100%;
+    min-height:100%;
+    background-size:cover;
+    background-position-y: 50%;
+    background-repeat:no-repeat;
+    //object-fit:cover;
+    //object-position:50% 50%;
+    padding-top:20px;
+    padding-bottom:20px;
+    border-bottom: 2px solid gray;
+    text-align:center;
+    
+    .estado-title{
+        width:100%;
+        font-family:"Verdana";
+        font-weight: bold;
+        background-color: rgba(0,0,0,.5);
+        padding-top:5px;
+        padding-bottom:5px;
+        text-align: center;
+        color:white;
+    }
+}
+
+.ciudad-container{
+    float:left;
+    height:200px;
+    width:380px;
+    margin:10px;
+    padding-bottom:5px;
+    background-size:cover;
+    cursor:pointer;
+    box-shadow: 0px 0px 10px 2px gray;
+    
+    &:hover{
+        box-shadow: 0px 0px 10px 2px white;
+    }
+
+    //border:blue 1px solid;
+    .ciudad-title{
+        background-color:rgba(0,0,0,.5);
+        width:370px;
+        padding:5px;
+        font-family:"Verdana";
+        font-weight:100;
+        text-align: left;
+        color:white;
+        span{
+            display:inline-block;
+            margin-top:5px;
+        }
+    }
+    .checkbox{
+        float:right;
+        width:2em;
+        height:2em;
+        background:white;
+        color:green;
+        text-align: center;
+    }
+    .checkbox:hover{
+        background:lightblue;
+        color:darkgreen;
+        font-weight:bold;
+        text-align: center;
+    }
+}
+

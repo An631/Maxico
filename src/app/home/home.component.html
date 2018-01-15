@@ -1,12 +1,14 @@
-<div id="background">
-
-  <div class = "estado-container" *ngFor="let pueblo of pueblos; let i=index">
-    {{pueblo["Estado"]}}
-    <div class = "ciudad-container" *ngFor="let ciudad of pueblo['Ciudades']">
-      {{ciudad["Nombre"]}}
-      <div class="checkbox" (click)=addVisited(ciudad)></div>
+  <div class = "estado-container clearfix" [ngStyle]="{'background-image':'url('+pueblo['Foto']+')'}" *ngFor="let pueblo of pueblos; let i=index">
+    <div class="estado-title">
+      {{pueblo["Estado"]}}
     </div>
-    
+    <div class="clearfix">
+      <div class = "ciudad-container"  [ngStyle]="{'background-image':'url('+ciudad['Fotos'][0]+')'}" *ngFor="let ciudad of pueblo['Ciudades']">
+        <div class="ciudad-title clearfix">
+          <span>{{ciudad["Nombre"]}}</span>
+          <div class="checkbox" (click)=addVisited(ciudad)></div>
+        </div>
+        <img href=""/>
+      </div>
+    </div>
   </div>
-  
-</div>
