@@ -14,7 +14,6 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
     this._data.pueblo.subscribe(res=>this.pueblos=res)
-    console.log(this.pueblos.length);
     this._data.changePueblos(this.pueblos);
   }
 
