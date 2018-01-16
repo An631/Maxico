@@ -1,0 +1,21 @@
+#aligner{
+    text-align: center;
+    padding:20px;
+}
+.details-content{
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    span {
+        display:inline-block;
+        font-weight:bold;
+    }
+    img {
+        float:left;
+        max-height:400px;
+        margin-right:20px;
+    }
+
+    p {
+        text-align:justify;
+    }
+}

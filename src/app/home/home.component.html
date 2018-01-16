@@ -1,9 +1,9 @@
-  <div class = "estado-container clearfix" [ngStyle]="{'background-image':'url('+pueblo['Foto']+')'}" *ngFor="let pueblo of pueblos; let i=index">
+  <div class = "estado-container clearfix" [ngStyle]="{'background-image':'url('+pueblo['Foto']+')'}" *ngFor="let pueblo of pueblos; let eID=index">
     <div class="estado-title">
       {{pueblo["Estado"]}}
     </div>
     <div class="clearfix">
-      <div class = "ciudad-container" routerLink="details/{{ciudad['id']}}" [ngStyle]="{'background-image':'url('+ciudad['Fotos'][0]+')'}" *ngFor="let ciudad of pueblo['Ciudades']">
+      <div class = "ciudad-container" routerLink="details/{{eID}}/{{cID}}" [ngStyle]="{'background-image':'url('+ciudad['Fotos']['billboard']+')'}" *ngFor="let ciudad of pueblo['Ciudades']; let cID=index">
         <div class="ciudad-title clearfix">
           <span>{{ciudad["Nombre"]}}</span>
           <div class="checkbox" (click)=addVisited(ciudad)></div>
