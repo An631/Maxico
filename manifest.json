@@ -1,6 +1,7 @@
 {
     "short_name":"Maxico",
     "name": "Maxico, pueblos magicos de Mexico",
+    "start_url": "/",    
     "icons": [
         {
             "src": "assets/icons/android-chrome-192x192.png",
