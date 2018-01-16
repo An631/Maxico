@@ -43,3 +43,10 @@ a {
     height: 0;
 }
 .clearfix {display: inline-block;}
+
+.clickable{
+    cursor:pointer;
+}
+.clickable:hover{
+    opacity:0.7;
+}

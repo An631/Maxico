@@ -13,15 +13,13 @@ export class DataService {
             "Nombre": "San José de Gracia",
             "Fotos":{
               "main":"assets/Aguascalientes/SanJosédeGracia/cristo_roto.jpg",
-              "billboard":"assets/Aguascalientes/SanJosédeGracia/main.jpg",
+              "billboard":"assets/Aguascalientes/SanJosédeGracia/billboard.jpg",
           },
-          "Details": `San José de Gracia recibió la etiqueta de pueblo mágico en la ciudad de puebla el 25 de septiembre del 2015, fecha que quedara guardada en la historia del Pueblo josefino.
+          "Details": `This modest "Magical Town", located on the banks of the Plutarco Elias Calles Dam, has become famous for a stunning sculpture, located on a small islet over the dam, that features Christ without his right arm and leg, hence the name, Cristo Roto or “Broken Christ.” This impressive statue is a reminder of the meaning of faith.
 
-El nombramiento fue recibido por el Profr.Antonio Alberto Martínez Rodríguez presidente Municipal de San José de Gracia de manos del titular de la secretaria de turismo federal Lic.Enrique de la Madrid.
+In addition, San José de Gracia offers the Boca del Tunel Adventure Park, where the green scent of the scenery will overtake you from the moment you set foot in that wonderful canyon. Everywhere you look you will find the exuberance of nature in Aguascalientes, with its green and rivers in contrast, the hanging bridges, the rock formations and its immense lagoon.   
 
-Para lograr que Nuestro pueblo este dentro de los 111 pueblos mágico se llevó a cabo un proceso de casi un año de trabajo de la mayoría de las áreas del H.Ayuntamiento, SECTURE, asi como de diversos grupos, comerciantes, artesanos para lograr la conformación de un comité ciudadano principal requerimiento de la convocatoria.
-
-Para concluir con estos trabajos y lograr el resultado tan anhelado de ser pueblo mágico recibimos el apoyo incondicional del personal de la Secretaria de Turismo del Estado cuyo titular Lic.Alejandro Ponce.`
+Come to live a unique experience in one of Mexico's Pueblos mágicos; visit San José de Gracia.`
           },
           {
             "Nombre": "Calvillo",
